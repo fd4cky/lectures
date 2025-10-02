@@ -21,10 +21,14 @@
             "id": "2190fdd93fc42ba9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "Алгебра и геометрия (Марвин)/Матрицы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Матрицы"
             }
           }
         ],
@@ -149,12 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Алгебра и геометрия (Марвин)/Матрицы.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура Матрицы"
             }
           },
           {
