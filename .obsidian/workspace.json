@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "c339f671a46e7b55",
+    "type": "split",
+    "children": [
+      {
+        "id": "4be2832391a5c528",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5cf8272c3605324",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          },
+          {
+            "id": "2190fdd93fc42ba9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7facc0195f287d37",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6089828623221dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f27b9cad5dd8c120",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "977f1ee900eb9082",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "a65f93452ccfd1f1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "92ef47bdd1c84ce5",
+    "type": "split",
+    "children": [
+      {
+        "id": "db3e18e1af14d30d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d01fe7be75c5c856",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Матан/Комплексные числа.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Комплексные числа"
+            }
+          },
+          {
+            "id": "4404d87483970bc3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "4f686c95fd17010f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "de10938ab2d56951",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "2fcad1a4ede31e5b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "91f11b2c76b5bb6b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "8737b3d4b13555e4",
+            "type": "leaf",
+            "state": {
+              "type": "mathpad-view",
+              "state": {},
+              "icon": "sigma",
+              "title": "Mathpad"
+            }
+          },
+          {
+            "id": "93ad0a4f89d8691b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "obsidian-git:Open Git source control": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "juggl:Juggl global graph": false,
+      "mathpad:Open Mathpad": false
+    }
+  },
+  "active": "2190fdd93fc42ba9",
+  "lastOpenFiles": [
+    "Матан (Башуров)/Пределы.md",
+    "Матан (Башуров)/Без названия.md",
+    "Алгебра и геометрия (Марвин)/Матрицы.md",
+    "Дискретка (Белоусов)/Множества.md",
+    "Алгебра и геометрия (Марвин)",
+    "Матан/Комплексные числа.md",
+    "Матан/Матрицы.md",
+    "2025-10-01.md",
+    "Без названия.canvas",
+    "Без названия 1.canvas",
+    "Без названия.base",
+    "Дискретка (Белоусов)",
+    "Welcome.md",
+    "Матан (Башуров)"
+  ]
+}
